@@ -1,14 +1,15 @@
 
-import './App.css'
+import { RouterProvider } from "react-router-dom";
+import { router } from "./routers/routers";
 
-function App() {
 
+const App = () => (
+  <div>
+    
+    <div className="min-h-screen bg-gray-50">
+      <RouterProvider router={router} />
+    </div>
+  </div>
+);
 
-  return (
-    <>
-<h1 className='text-3xl underline'>hello</h1>
-    </>
-  )
-}
-
-export default App
+export default App;
