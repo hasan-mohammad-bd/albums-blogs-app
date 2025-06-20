@@ -73,6 +73,7 @@ src/
 ├── pages/            # Page components (Blogs, Albums, etc.)
 ├── services/         # API service functions
 ├── types/            # TypeScript type definitions
+├── routers/          # Page routing functionality 
 └── lib/              # Utility functions
 ```
 
