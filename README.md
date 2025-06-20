@@ -85,7 +85,7 @@ src/
 
 ## 🚀 Live Preview
 
-👉 [Click here to view the live site]()
+👉 [Click here to view the live site](https://albums-blogs-app.vercel.app/)
 
 ## Browser Support
 
